@@ -10,16 +10,13 @@ I'm looking for entry-level opportunities in **Software Engineering, AI/ML, Clou
 
 <p align="center">
   <a href="https://flukelnwza.online/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://flukelnwza.online/resume">
-    <img src="https://img.shields.io/badge/Resume-View%20CV-2563EB?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" />
-  </a>
-  <a href="https://www.linkedin.com/in/phanudet-sueaphueak-957757257/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Resume-View-111827?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume" />
   </a>
   <a href="mailto:flukephanudet.work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-111827?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
