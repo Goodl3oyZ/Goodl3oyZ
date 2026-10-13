@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Fluke</h1>
-<h3 align="center">Fullstack Developer | Cybersecurity Enthusiast | CpE Student @ Chiang Mai University</h3>
+<h3 align="center">Fullstack Developer | Cybersecurity Enthusiast | CpE graduated @ Chiang Mai University</h3>
 
 <p align="center">
   Building modern web apps, exploring offensive security, and applying ML from scratch.
@@ -9,6 +9,7 @@
   <a href="https://github.com/Goodl3oyZ"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://instagram.com/fluke_psd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="mailto:panudetzx2@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  https://flukelnwza.online/
 </p>
 
 ---
