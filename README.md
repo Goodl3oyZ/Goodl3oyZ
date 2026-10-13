@@ -29,7 +29,6 @@ I'm looking for entry-level opportunities in **Software Engineering, AI/ML, Clou
 | **[GymBRO E-commerce](https://shop.flukelnwza.online)** | Full-stack sports e-commerce platform with product catalog, cart, checkout, inventory reservation, Omise payments with 3-D Secure, PromptPay, shipping tracking, OAuth, loyalty points, verified reviews, real-time notifications, support chat, and admin CMS. | Next.js, Node.js, Express, PostgreSQL, Redis, Socket.IO, Docker |
 | **[Voice PC Remote](https://pc.flukelnwza.online)** | AI-powered voice control and remote PC execution, designed as an installable mobile PWA. | React, TypeScript, PWA, AI, Docker |
 | **[Cut 90 Planner](https://cut.flukelnwza.online)** | Thai-language planner for a science-based 90-day fat-loss program, available as an installable PWA. | PWA |
-| **[Portfolio](https://flukelnwza.online)** | Personal portfolio featuring engineering case studies, projects, and technical notes. | Next.js |
 
 ### E-commerce Engineering Highlights
 
